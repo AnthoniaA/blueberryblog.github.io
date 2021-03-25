@@ -161,3 +161,6 @@ div.content {
     height: 100vh;
 }
 
+.categories p {
+   font-family: "quicksand";
+}
