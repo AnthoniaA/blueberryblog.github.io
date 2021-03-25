@@ -121,6 +121,11 @@ h2.header{
     margin-bottom: 5px;
 }
 
+div.content {
+    width: 100vw;
+    height: 100vh;
+}
+
 /*about*/
 div.about-me p {
     font-family: 'Work Sans', sans-serif;
