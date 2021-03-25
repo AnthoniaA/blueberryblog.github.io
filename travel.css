@@ -153,6 +153,10 @@ div.categories a:hover {
    color: #9BBBF9;
 }
 
+#locallang {
+   float:left;
+}
+
 div.content {
     width: 100vw;
     height: 100vh;
