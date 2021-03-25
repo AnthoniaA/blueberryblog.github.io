@@ -216,7 +216,7 @@ display: flex;
  grid-row-end:3;
  grid-column-start:5 ;
 grid-column-end: 9 ;  
-background-size: contain; 
+background-size: cover; 
 } 
 .subitem3{
 font-family: "Quicksand";
