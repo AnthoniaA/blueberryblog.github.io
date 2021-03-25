@@ -205,7 +205,6 @@ div.content-large-a {
   
  /*when you hover on the content*/
  div.content-large-a:hover, div.content-large-b:hover, div.content-small-c:hover, div.content-small-d:hover {
-    cursor: pointer; 
     opacity: 1.0;
 }
 
