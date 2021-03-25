@@ -153,3 +153,8 @@ div.categories a:hover {
    float:left;
 }
 
+div.content {
+    width: 100vw;
+    height: 100vh;
+}
+
