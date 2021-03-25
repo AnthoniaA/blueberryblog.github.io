@@ -286,10 +286,7 @@ margin: 15px;
 .about-me{
  margin-left: 5px;
 }
-.about-me p{
- position: relative;
- top: -30px;
-}
+
 .picture-me{
  float: right;
  position: relative;
