@@ -121,7 +121,6 @@ h1 {
    font-size: 50px;
    text-align: center;
    font-weight: lighter;
-   padding: 10px;
 }
 
 div#images {
@@ -152,10 +151,6 @@ div.categories {
  
 div.categories a:hover {
    color: #9BBBF9;
-}
- 
-#locallang {
-   float:left;
 }
 
 div.content {
